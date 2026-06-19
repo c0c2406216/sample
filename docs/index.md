@@ -1,9 +1,9 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# h1 自己紹介
+## h2 名前：吉田悠人
+### h3 学籍番号：C0C24062
+#### h4 コンピュータサイエンス学部　社会情報専攻
+##### h5 趣味：カラオケ
+###### h6 アルバイト：歌広場
 
 ## Emphasis
 **This is bold text**
